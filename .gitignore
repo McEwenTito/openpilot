@@ -86,12 +86,6 @@ poetry.toml
 Pipfile
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
 .history/
@@ -103,3 +97,6 @@ Pipfile
 # Ignore all local history of files
 .history
 .ionide
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
